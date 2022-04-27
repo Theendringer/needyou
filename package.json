@@ -1,0 +1,14 @@
+{
+  "name": "needyou",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EndersonpereiraBarcelos/needyou.git",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "3.13.0",
+    "prisma": "^3.13.0"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
